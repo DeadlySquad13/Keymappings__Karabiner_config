@@ -1,0 +1,3 @@
+[submodule "assets/complex_modifications"]
+	path = assets/complex_modifications
+	url = git@github.com:DeadlySquad13/Keymappings__Karabiner_scripts.git
